@@ -1,4 +1,3 @@
-```markdown
 # Online Retail Data Project - Project Brief
 
 Hi Team,
